@@ -6,3 +6,5 @@ Feel free to update or whatever (although if you want to actually contribute to 
 Make sure to open the .project file with Gamemaker Studio 1.4+
 
 I am not responsible for any gamejacks to come from this!
+
+SANS
